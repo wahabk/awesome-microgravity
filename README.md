@@ -30,6 +30,9 @@ This currently focuses on simulating microgravity using Clinostats and [Random P
 
 ### Papers (Most recent ⬇️)
 
-
+- [2022: Development of an inexpensive 3D clinostat and comparison with other microgravity simulators using Mycobacterium marinum](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2022.1032610/full#SM1)
+- [2019: Comparison of Microgravity Analogs to Spaceflight in Studies of Plant Growth and Development
+](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.01577/full)
+- 
 
 <!-- TODO ALL CONTRIBUTORS-->
