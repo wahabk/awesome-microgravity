@@ -5,7 +5,7 @@ This currently focuses on simulating microgravity using Clinostats and [Random P
 
 ## Repositories
 
-- [Yuri RPM](https://github.com/CoreElectronics/CE-Random-Positioning-Machine)
+- [CoreElectronics RPM](https://github.com/CoreElectronics/CE-Random-Positioning-Machine)
 - [wahabk Clinostat/RPM](https://github.com/wahabk/Clinostat)
 
 ## Commercial
