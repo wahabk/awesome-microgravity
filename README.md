@@ -28,11 +28,18 @@ This currently focuses on simulating microgravity using Clinostats and [Random P
 - [Ground-based facilities for simulation of microgravity: organism-specific recommendations for their use, and recommended terminology
 ](https://pubmed.ncbi.nlm.nih.gov/23252378/)
 
-### Papers (Most recent ⬇️)
+### Papers
 
 - [2022: Development of an inexpensive 3D clinostat and comparison with other microgravity simulators using Mycobacterium marinum](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2022.1032610/full#SM1)
 - [2019: Comparison of Microgravity Analogs to Spaceflight in Studies of Plant Growth and Development
 ](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.01577/full)
-- 
+
+#### With algorithms
+
+- [Novel, Moon and Mars, partial gravity simulation paradigms and their effects on the balance between cell growth and cell proliferation during early plant development
+](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5884789/)
+- [Cell Cultivation Under Different Gravitational LoadsUsing a Novel Random Positioning Incubator](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/epdf/10.1002/bit.25179)
+
+
 
 <!-- TODO ALL CONTRIBUTORS-->
