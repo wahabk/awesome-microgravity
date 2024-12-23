@@ -30,9 +30,14 @@ This currently focuses on simulating microgravity using Clinostats and [Random P
 
 ### Papers
 
+- [2023: Customized small-sized clinostat using 3D printing and gas-permeable polydimethylsiloxane culture dish
+](https://www.nature.com/articles/s41526-023-00311-1)
 - [2022: Development of an inexpensive 3D clinostat and comparison with other microgravity simulators using Mycobacterium marinum](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2022.1032610/full#SM1)
 - [2019: Comparison of Microgravity Analogs to Spaceflight in Studies of Plant Growth and Development
 ](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.01577/full)
+- [2017: Time-averaged simulated microgravity (taSMG) inhibits proliferation of lymphoma cells, L-540 and HDLM-2, using a 3D clinostat](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-017-0337-8)
+- [2015: Effects of angular frequency during clinorotation on mesenchymal stem cell morphology and migration
+](https://www.nature.com/articles/npjmgrav20157)
 
 #### With algorithms
 
